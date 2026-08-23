@@ -1,0 +1,1 @@
+def gen(n=10): return 'Lorem ipsum dolor sit amet.'
